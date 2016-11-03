@@ -4,8 +4,7 @@
 
 @section('content')
     <h1>Purpose</h1>
-        <p>You can use this form to genearate up 100 paragraphs of lorem ipusm text.
-        You will also get a user name.</p>
+        <p>You can use this form to genearate up 100 paragraphs of lorem ipusm text.</p>
 
     <h2>Generate Lorem Ipsum</h2>
     <form method='POST' action='/'>
